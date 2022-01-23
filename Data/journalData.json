@@ -1,0 +1,73 @@
+[
+    {
+        "Year" : "2021",
+        "Authors": "W. U. Mondal, A. A. Sardar, and G. Das",
+        "Journal/Conference" : "IEEE Transactions on Vehicular Technology",
+        "URL": "https://ieeexplore.ieee.org/document/9329203",
+        "Title" : "Economic Analysis of Cognitive Underlay Networks: A Nash Bargaining Based Approach"
+    },
+
+    {
+        "Year" : "2021",
+        "Authors": "W. U. Mondal, and G. Das",
+        "Journal/Conference" : "IEEE Communications Letters",
+        "URL": "https://ieeexplore.ieee.org/abstract/document/9117114",
+        "Title" : "On Exact Distribution of Poisson-Voronoi Area in K-Tier HetNets With Generalized Association Rule"
+    },
+
+    {
+        "Year" : "2020",
+        "Authors": "W. U. Mondal, D. Roy, S. Dutta, and G. Das",
+        "Journal/Conference" : "IEEE/OSA Journal of Lightwave Technology",
+        "URL": "https://ieeexplore.ieee.org/abstract/document/8993769",
+        "Title" : "Economics of Resilient TWDM PONs"
+    },
+
+    {
+        "Year" : "2019",
+        "Authors": "W. U. Mondal, A. A. Sardar, N. Biswas, and G. Das", 
+        "Journal/Conference" : "IEEE Transactions on Cognitive Communications and Networking",
+        "URL": "https://ieeexplore.ieee.org/abstract/document/8877784",
+        "Title" : "Nash Bargaining Based Economic Analysis of Opportunistic Cognitive Cellular Networks"
+    },
+
+    {
+        "Year" : "2019",
+        "Authors": "W. U. Mondal, and G. Das",
+        "Journal/Conference" : "IEEE Communications Letters",
+        "URL": "https://ieeexplore.ieee.org/abstract/document/8684915",
+        "Title" : "Economics of TWDM PONs With Nonlinear Pricing"
+    },
+
+    {
+        "Year" : "2019",
+        "Authors": "W. U. Mondal, D. Roy, S. Dutta, and G. Das",
+        "Journal/Conference" : "IEEE/OSA Journal of Optical Communications and Networking",
+        "URL": "https://ieeexplore.ieee.org/abstract/document/8666680",
+        "Title" : "Economic analysis of TWDM PONs: A sustainability and policy-making perspective"
+    },
+
+    {
+        "Year" : "2017",
+        "Authors": "W. U. Mondal, and G. Das",
+        "Journal/Conference" : "IEEE Communications Letters",
+        "URL": "https://ieeexplore.ieee.org/abstract/document/7990369",
+        "Title" : "Blocking predation in cellular monopoly through non-linear spectrum pricing"
+    },
+
+    {
+        "Year" : "2017", 
+        "Authors": "W. U. Mondal, and G. Das", 
+        "Journal/Conference" : "IEEE Communications Letters",
+        "URL": "https://ieeexplore.ieee.org/abstract/document/7938328",
+        "Title" : "Uplink User Process in Poisson Cellular Network"
+    },
+
+    {
+        "Year" : "2017",
+        "Authors": "W. U. Mondal, S. Biswas, G. Das, and P. Ray",
+        "Journal/Conference" : "Physical Communication",
+        "URL": "https://www.sciencedirect.com/science/article/abs/pii/S1874490716300817",
+        "Title" : "Traffic-Aware Green Cognitive Radio"
+    }
+]

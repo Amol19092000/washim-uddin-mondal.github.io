@@ -1,0 +1,25 @@
+[
+    {
+        "Year": "2021",
+        "Authors": "W. U. Mondal, M. Agarwal, V. Aggarwal, and S. V. Ukkusuri",
+        "Journal/Conference": "Cooperative AI workshop at Neural Information Processing Systems (NeurIPS)",
+        "URL": "https://www.cooperativeai.com/neurips-2021/workshop-papers#h.xor1ca7sxmd",
+        "Title": "On the Approximation of Cooperative Heterogeneous Multi-Agent Reinforcement Learning (MARL) using Mean Field Control (MFC)"
+    },
+
+    {
+        "Year": "2019",
+        "Authors": "W. U. Mondal, and G. Das",
+        "Journal/Conference": "IEEE Vehicular Technology Conference (VTC)",
+        "URL": "https://ieeexplore.ieee.org/abstract/document/8891480",
+        "Title": "Predation Blocking Strategies in Real Cellular Networks and its impact on Spectrum Revenue"
+    },
+
+    {
+        "Year": "2019",
+        "Authors": "W. U. Mondal, A. A. Sardar, N. Biswas, and G. Das",
+        "Journal/Conference": "IEEE International Conference on Communications (ICC)",
+        "URL": "https://ieeexplore.ieee.org/abstract/document/8761657",
+        "Title": "Nash Bargaining Based Economic Analysis of Cognitive Cellular Networks"
+    }
+]
