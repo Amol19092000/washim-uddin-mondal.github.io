@@ -1,5 +1,13 @@
 [
     {
+        "Year": "2022",
+        "Authors":"A. A. Sardar, D. Roy, W. U. Mondal, and G. Das",
+        "Journal/Conference": "IEEE Transactions on Wireless Communications",
+        "URL": "#",
+        "Title": "Queuing Analysis of QoS Aware Microwave Power Transfer Enabled CR-IoT Network"
+    },
+
+    {
         "Year" : "2021",
         "Authors": "W. U. Mondal, A. A. Sardar, and G. Das",
         "Journal/Conference" : "IEEE Transactions on Vehicular Technology",

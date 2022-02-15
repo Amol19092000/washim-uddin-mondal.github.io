@@ -42,7 +42,7 @@ function loadPublicationData(dataLocation, columns, tableID){
         var jsonContent = JSON.parse(pageRequest.responseText);
 
         for(i=0; i < jsonContent.length; i++){
-            jsonContent[i]["Title"] = jsonContent[i]["Authors"] + ", <a href=" + jsonContent[i]["URL"] + " target=\"_blank\">\"" + jsonContent[i]["Title"] + "</a>\", <i>" + jsonContent[i]["Journal/Conference"] + "</i>.";
+            jsonContent[i]["Title"] = jsonContent[i]["Authors"] + ", \"<a href=" + jsonContent[i]["URL"] + " target=\"_blank\">" + jsonContent[i]["Title"] + "</a>\", <i>" + jsonContent[i]["Journal/Conference"] + "</i>.";
         }
         htmlContent = makeHTMLTable(jsonContent, columns);
         document.getElementById(tableID).innerHTML = htmlContent;
