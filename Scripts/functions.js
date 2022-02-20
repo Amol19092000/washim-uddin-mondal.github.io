@@ -18,6 +18,14 @@ function loadAchievements(){
     loadData(dataLocation, columns, tableID);
 }
 
+function loadNews(){
+    dataLocation = '../Data/news.json';
+    columns = Array("Date", "News");
+    tableID = "newsTable";
+
+    loadData(dataLocation, columns, tableID);
+}
+
 function loadJournalPublications(){
     dataLocation = '../Data/journalData.json';
     columns = Array("Year", "Title");

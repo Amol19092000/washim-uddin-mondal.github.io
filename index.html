@@ -16,7 +16,7 @@
     <script src="./Scripts/functions.js"></script>
 </head>
 
-<body onscroll="stickynav()">
+<body onload="loadNews()" onscroll="stickynav()">
     <div>
         <div id="header"></div>
         <script src="./Scripts/loadHeader.js" navButtonName="Home" relPathToRootDir="."></script>
@@ -42,8 +42,9 @@
                 </div>
             </div>
             
-            <div class="update">
-                
+            <div class="rowJustifiedContainer">
+                <table id="newsTable">
+                </table>
             </div>
         </div>
     </div>
