@@ -1,9 +1,17 @@
 [
     {
+        "Year": 2022,
+        "Authors": "W. U. Mondal, M. Agarwal, V. Aggarwal, and S. V. Ukkusuri",
+        "Journal/Conference": "Journal of Machine Learning Research",
+        "URL": "#",
+        "Title": "On the Approximation of Cooperative Heterogeneous Multi-Agent Reinforcement Learning (MARL) using Mean Field Control (MFC)"
+    },
+
+    {
         "Year": "2022",
         "Authors":"A. A. Sardar, D. Roy, W. U. Mondal, and G. Das",
         "Journal/Conference": "IEEE Transactions on Wireless Communications",
-        "URL": "#",
+        "URL": "https://ieeexplore.ieee.org/document/9722714",
         "Title": "Queuing Analysis of QoS Aware Microwave Power Transfer Enabled CR-IoT Network"
     },
 
