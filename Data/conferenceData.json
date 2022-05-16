@@ -1,9 +1,17 @@
 [
     {
+        "Year": "2022",
+        "Authors": "W. U. Mondal, V. Aggarwal, and S. V. Ukkusuri",
+        "Journal/Conference": "Conference on Uncertainty in Artificial Intelligence (UAI)",
+        "URL": "#",
+        "Title": "Can Mean Field Control (MFC) Approximate Cooperative Multi Agent Reinforcement Learning (MARL) with Non-Uniform Interaction?"
+    },
+
+    {
         "Year": "2021",
         "Authors": "W. U. Mondal, M. Agarwal, V. Aggarwal, and S. V. Ukkusuri",
         "Journal/Conference": "Cooperative AI workshop at Neural Information Processing Systems (NeurIPS)",
-        "URL": "https://www.cooperativeai.com/neurips-2021/workshop-papers#h.xor1ca7sxmd",
+        "URL": "https://www.cooperativeai.com/workshop/neurips-2021#Workshop-Papers",
         "Title": "On the Approximation of Cooperative Heterogeneous Multi-Agent Reinforcement Learning (MARL) using Mean Field Control (MFC)"
     },
 
