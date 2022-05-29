@@ -2,6 +2,14 @@
     {
         "Year": "2022",
         "Authors":"A. A. Sardar, D. Roy, W. U. Mondal, and G. Das",
+        "Journal/Conference": "IEEE Transactions on Cognitive Communications and Networking",
+        "URL": "#",
+        "Title": "Sustainability Analysis of Opportunistic CR-IoT Network Employing Microwave Power Transfer"
+    },
+
+    {
+        "Year": "2022",
+        "Authors":"A. A. Sardar, D. Roy, W. U. Mondal, and G. Das",
         "Journal/Conference": "IEEE Transactions on Wireless Communications",
         "URL": "https://ieeexplore.ieee.org/document/9722714",
         "Title": "Queuing Analysis of QoS Aware Microwave Power Transfer Enabled CR-IoT Network"
