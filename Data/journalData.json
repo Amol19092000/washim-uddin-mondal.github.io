@@ -1,6 +1,14 @@
 [
     {
         "Year": "2022",
+        "Authors":"W. U. Mondal, P. D. Mankar, G. Das, V. Aggarwal, and S. V. Ukkusuri",
+        "Journal/Conference": "IEEE Transactions on Cognitive Communications and Networking",
+        "URL": "#",
+        "Title": "Deep Learning based Coverage and Rate Manifold Estimation in Cellular Networks"
+    },
+
+    {
+        "Year": "2022",
         "Authors":"A. A. Sardar, D. Roy, W. U. Mondal, and G. Das",
         "Journal/Conference": "IEEE Transactions on Cognitive Communications and Networking",
         "URL": "https://ieeexplore.ieee.org/document/9786042",
