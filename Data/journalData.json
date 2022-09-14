@@ -1,9 +1,17 @@
 [
     {
         "Year": "2022",
+        "Authors": "W. U. Mondal, V. Aggarwal, and S. V. Ukkusuri",
+        "Journal/Conference": "Transactions on Machine Learning Research",
+        "URL": "https://openreview.net/forum?id=t5HkgbxZp1",
+        "Title": "On the Near-Optimality of Local Policies in Large Cooperative Multi-Agent Reinforcement Learning"
+    },
+
+    {
+        "Year": "2022",
         "Authors":"W. U. Mondal, P. D. Mankar, G. Das, V. Aggarwal, and S. V. Ukkusuri",
         "Journal/Conference": "IEEE Transactions on Cognitive Communications and Networking",
-        "URL": "#",
+        "URL": "https://ieeexplore.ieee.org/document/9866815",
         "Title": "Deep Learning based Coverage and Rate Manifold Estimation in Cellular Networks"
     },
 
@@ -24,7 +32,7 @@
     },
 
     {
-        "Year": 2022,
+        "Year": "2022",
         "Authors": "W. U. Mondal, M. Agarwal, V. Aggarwal, and S. V. Ukkusuri",
         "Journal/Conference": "Journal of Machine Learning Research",
         "URL": "https://www.jmlr.org/papers/v23/21-1312.html",
