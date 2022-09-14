@@ -29,12 +29,7 @@ h1{
 /* properties of generic urls */
 a:link, a:visited {
     text-decoration: none;
-    color: black;
-}
-
-/* hovering property of generic urls */
-a:hover{
-    color:darkturquoise;
+    color: blue;
 }
 
 /* navigation bar */
