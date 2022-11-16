@@ -173,7 +173,7 @@ nav .buttonContainer:hover{
 /* properties of generic paragraph */
 p{
     color: black;
-    font-size: 17px;
+    font-size: 15px;
     font-family: 'Merriweather', serif;
 }
 
@@ -182,7 +182,7 @@ p{
     padding-bottom: 15px;
     margin-bottom: 25px;
     text-align: center; 
-    font-size: 22px; 
+    font-size: 20px; 
     background: rgb(126, 125, 125);
 }
 
@@ -246,11 +246,11 @@ p{
 }
 
 .designation{
-    font-size: 25px;
+    font-size: 22px;
 }
 
 .designation + p{
-    margin-top: 20px;
+    margin-top: 18px;
 }
 
 .button{
@@ -264,14 +264,14 @@ p{
 /* table headers */
 th{
     font-family: 'Merriweather', serif;
-    font-size: 20px;
+    font-size: 18px;
     padding: 10px 10px 10px 10px;
 }
 
 /* table data */
 td{
     font-family: 'Merriweather', serif;
-    font-size: 17px;
+    font-size: 15px;
     padding: 10px 10px 10px 10px;
 }
 
@@ -392,7 +392,7 @@ table{
     }
 
     .button{
-        font-size: 17px;
+        font-size: 15px;
     }
 
     .drop-down-menu{

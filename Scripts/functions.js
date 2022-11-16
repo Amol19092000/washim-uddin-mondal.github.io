@@ -28,7 +28,7 @@ function loadNews(){
 
 function loadJournalPublications(){
     dataLocation = '../Data/journalData.json';
-    columns = Array("No.", "Title");
+    columns = Array("", "Journals");
     tableID = "journalTable";
 
     loadPublicationData(dataLocation, columns, tableID);
@@ -36,7 +36,7 @@ function loadJournalPublications(){
 
 function loadConferencePublications(){
     dataLocation = '../Data/conferenceData.json';
-    columns = Array("No.", "Title");
+    columns = Array("", "Conferences");
     tableID = "conferenceTable";
 
     loadPublicationData(dataLocation, columns, tableID);
@@ -110,8 +110,8 @@ function loadPublicationData(dataLocation, columns, tableID){
         var jsonContent = JSON.parse(pageRequest.responseText);
 
         for(i=0; i < jsonContent.length; i++){
-            jsonContent[i]["Title"] = jsonContent[i]["Authors"] + ", \"<a href=" + jsonContent[i]["URL"] + " target=\"_blank\">" + jsonContent[i]["Title"] + "</a>\", <i>" + jsonContent[i]["Journal/Conference"] + "</i>, " + jsonContent[i]["Year"] + ".";
-            jsonContent[i]["No."] = "["+ (i+1) + "]";
+            jsonContent[i][columns[1]] = jsonContent[i]["Authors"] + ", \"<a href=" + jsonContent[i]["URL"] + " target=\"_blank\">" + jsonContent[i]["Title"] + "</a>\", <i>" + jsonContent[i]["Journal/Conference"] + "</i>, " + jsonContent[i]["Year"] + ".";
+            jsonContent[i][""] = "["+ (i+1) + "]";
         }
         htmlContent = makeHTMLTable(jsonContent, columns);
         document.getElementById(tableID).innerHTML = htmlContent;
