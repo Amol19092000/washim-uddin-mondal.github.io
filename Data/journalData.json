@@ -1,5 +1,13 @@
 [
     {
+        "Year": "2023",
+        "Authors": "A. A Sardar, D. Roy, W. U. Mondal, and G. Das",
+        "Journal/Conference": "IEEE Transactions on Cognitive Communications and Networking",
+        "URL": "https://ieeexplore.ieee.org/abstract/document/10064143",
+        "Title": "Coalition Formation for Outsourced Spectrum Sensing in Cognitive Radio Network"
+    },
+    
+    {
         "Year": "2022",
         "Authors": "W. U. Mondal, V. Aggarwal, and S. V. Ukkusuri",
         "Journal/Conference": "Transactions on Machine Learning Research",
