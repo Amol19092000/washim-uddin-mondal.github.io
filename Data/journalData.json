@@ -6,6 +6,14 @@
         "URL": "https://ieeexplore.ieee.org/abstract/document/10064143",
         "Title": "Coalition Formation for Outsourced Spectrum Sensing in Cognitive Radio Network"
     },
+
+    {
+        "Year": "2023",
+        "Authors": "W. U. Mondal, V. Aggarwal, and S. V. Ukkusuri",
+        "Journal/Conference": "Transactions on Machine Learning Research",
+        "URL": "https://openreview.net/forum?id=ZME2nZMTvY",
+        "Title": "Mean-Field Control based Approximation of Multi-Agent Reinforcement Learning in Presence of a Non-decomposable Shared Global State"
+    },
     
     {
         "Year": "2022",
