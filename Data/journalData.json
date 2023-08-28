@@ -1,6 +1,14 @@
 [
     {
         "Year": "2023",
+        "Authors": "W. U. Mondal, and V. Aggarwal",
+        "Journal/Conference": "Transactions on Machine Learning Research",
+        "URL": "https://openreview.net/forum?id=ubCoTAynPp",
+        "Title": "Reinforcement Learning with Delayed, Composite, and Partially Anonymous Reward"
+    },
+
+    {
+        "Year": "2023",
         "Authors": "A. A Sardar, D. Roy, W. U. Mondal, and G. Das",
         "Journal/Conference": "IEEE Transactions on Cognitive Communications and Networking",
         "URL": "https://ieeexplore.ieee.org/abstract/document/10064143",
