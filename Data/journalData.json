@@ -1,6 +1,14 @@
 [
     {
         "Year": "2023",
+        "Authors": "R. Wang, W. U. Mondal, M. A. Kishk, V. Aggarwal, and M. -S. Alouini",
+        "Journal/Conference": "IEEE Open Journal of the Communications Society",
+        "URL": "https://ieeexplore.ieee.org/document/10347443",
+        "Title": "Terrain-Based Coverage Manifold Estimation: Machine Learning, Stochastic Geometry, or Simulation?"
+    },
+
+    {
+        "Year": "2023",
         "Authors": "W. U. Mondal, and V. Aggarwal",
         "Journal/Conference": "Transactions on Machine Learning Research",
         "URL": "https://openreview.net/forum?id=ubCoTAynPp",

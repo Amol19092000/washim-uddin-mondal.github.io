@@ -1,5 +1,13 @@
 [
     {
+        "Year": "2024",
+        "Authors": "Q. Bai, W. U. Mondal, and V. Aggarwal",
+        "Journal/Conference": "AAAI Conference on Artificial Intelligence",
+        "URL": "https://arxiv.org/abs/2309.01922",
+        "Title": "Regret Analysis of Policy Gradient Algorithm for Infinite Horizon Average Reward Markov Decision Processes"
+    },
+
+    {
         "Year": "2022",
         "Authors": "W. U. Mondal, V. Aggarwal, and S. V. Ukkusuri",
         "Journal/Conference": "Conference on Uncertainty in Artificial Intelligence (UAI)",
