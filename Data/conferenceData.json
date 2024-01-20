@@ -1,6 +1,14 @@
 [
     {
         "Year": "2024",
+        "Authors":"W. U. Mondal, and V. Aggarwal",
+        "Journal/Conference": "International Conference on Artificial Intelligence and Statistics (AISTATS)",
+        "URL": "https://arxiv.org/abs/2310.11677",
+        "Title": "Improved Sample Complexity Analysis of Natural Policy Gradient Algorithm with General Parameterization for Infinite Horizon Discounted Reward Markov Decision Processes"
+    },
+
+    {
+        "Year": "2024",
         "Authors": "Q. Bai, W. U. Mondal, and V. Aggarwal",
         "Journal/Conference": "AAAI Conference on Artificial Intelligence",
         "URL": "https://arxiv.org/abs/2309.01922",
