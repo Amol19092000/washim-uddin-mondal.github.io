@@ -1,5 +1,13 @@
 [
     {
+        "Year": "2024",
+        "Authors": "W. U. Mondal, V. Goyal, S. V. Ukkusuri, G. Das, D. Wang, M. -S. Alouini, and V. Aggarwal",
+        "Journal/Conference": "IEEE Networking Letters",
+        "URL": "https://ieeexplore.ieee.org/document/10433712",
+        "Title": "Near-Perfect Coverage Manifold Estimation in Cellular Networks via Conditional GAN"
+    },
+
+    {
         "Year": "2023",
         "Authors": "R. Wang, W. U. Mondal, M. A. Kishk, V. Aggarwal, and M. -S. Alouini",
         "Journal/Conference": "IEEE Open Journal of the Communications Society",
