@@ -1,6 +1,22 @@
 [
     {
         "Year": "2024",
+        "Authors": "W. U. Mondal, V. Aggarwal, and S. V. Ukkusuri",
+        "Journal/Conference": "Journal of Machine Learning Research",
+        "URL": "https://arxiv.org/abs/2209.07437",
+        "Title": "Mean-Field Approximation of Cooperative Constrained Multi-Agent Reinforcement Learning (CMARL)"
+    },
+
+    {
+        "Year": "2024",
+        "Authors": "L. Ling, W. U. Mondal, and S. V. Ukkusuri",
+        "Journal/Conference": "IEEE Journal of Biomedical and Health Informatics",
+        "URL": "https://ieeexplore.ieee.org/abstract/document/10517384",
+        "Title": "Cooperating Graph Neural Networks with Deep Reinforcement Learning for Vaccine Prioritization"
+    },
+
+    {
+        "Year": "2024",
         "Authors": "W. U. Mondal, V. Goyal, S. V. Ukkusuri, G. Das, D. Wang, M. -S. Alouini, and V. Aggarwal",
         "Journal/Conference": "IEEE Networking Letters",
         "URL": "https://ieeexplore.ieee.org/document/10433712",
