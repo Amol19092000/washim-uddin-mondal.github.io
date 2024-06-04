@@ -1,6 +1,6 @@
 function stickynav(){
     let headerY = document.getElementById("name").offsetHeight;
-    
+    // sample
     if (window.pageYOffset > headerY) {
         navBar.classList.add("sticky");
         document.getElementById("content").style.paddingTop = '40px';
